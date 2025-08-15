@@ -3,7 +3,7 @@
 | | |
 | :--- | :--- |
 | **Document Title:** | VulnOS: Chronos - Penetration Test & Exploit Walkthrough |
-| **Author:** | [Your Name/Handle] |
+| **Author:** | Gaurav Kumar |
 | **Date of Report:** | August 14, 2025 |
 | **Target System:** | VulnOS: Chronos |
 | **Target IP Address:** | `$TARGET_IP` |
