@@ -1,6 +1,6 @@
 # VulnOS: Chronos - Penetration Test & Exploit Walkthrough
 
-| | |
+| :--- | :--- |
 | **Document Title:** | VulnOS: Chronos - Penetration Test & Exploit Walkthrough |
 | **Author:** | [Your Name/Handle] |
 | **Date of Report:** | August 14, 2025 |
